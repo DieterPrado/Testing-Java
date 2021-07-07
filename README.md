@@ -4,6 +4,7 @@
 - Technologies
 - Setup
 - Things learned
+- Commands
 
 
 ------------
@@ -33,8 +34,9 @@ Requiered dependencies. Used within Intellij IDEA.
 ###### OpenJDK
 - Go to https://adoptopenjdk.net/ and download the following version:
     - OpenJDK 8
+   
+Within Intellij IDEA
 
-------------
 ###### JUnit
 - Copy the next code and insert it into the pom.xml file in the dependencies part of the code.
 - `<dependency>
